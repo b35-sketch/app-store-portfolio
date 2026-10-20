@@ -1,5 +1,5 @@
 Brian — iOS App Portfolio
-Computing & IT Graduate | 5 Apps Shipped to App Store | Lovable / React | Lincolnshire, UK (Remote)
+Computing & IT Graduate | 5 Apps Shipped to App Store | Lovable / React | Louth, UK (Remote/Hybrid)
 
 I build and ship iOS apps end-to-end using Lovable + React, handling design, build, App Store Connect, TestFlight, privacy compliance, and live updates.
 
