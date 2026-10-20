@@ -34,15 +34,17 @@ What I built: Tracker for children's school activities, forms, school payments, 
 Stack: Lovable, React, Local notifications, Data organization
 
 6. [New App - In Review]
-Currently in App Store Review - details coming soon. 
+Currently in App Store Review - details coming soon.
+
+7. Portfolio:
+https://apps.apple.com/gb/developer/brian-ball/id1891393063
+
 Workflow
 Development: Lovable → GitHub (private repos for version control & cross-device sync)
 Deployment: App Store Connect, TestFlight, Privacy Manifests, Review Guidelines
 Legal: Privacy Policy / Terms hosted via GitHub Pages (private source, public pages)
 Iteration: User feedback, crash logs, updates
 Contact
-Location: Lincolnshire, UK - Open to fully remote (part-time or full-time)
-Portfolio: [Add your portfolio link here]
-LinkedIn: [Add your LinkedIn here]
-Email: [Add your email]
+Location: Louth, UK - Open to fully remote or Hybrid roles (part-time or full-time)
+
 Note: Source code repos are private (used for version control and legal pages). This portfolio repo exists to showcase live shipped products and App Store links.
